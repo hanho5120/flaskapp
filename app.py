@@ -27,8 +27,8 @@ def movemenu():
                 "payload": {
                     "richContent": [[
                         {
-                            "type": "image",
-                            "rawUrl": "http://img.cgv.co.kr/Movie/Thumbnail/Poster/000082/82120/82120_1000.jpg"
+                             "type": "image",
+                             "rawUrl": "http://img.cgv.co.kr/Movie/Thumbnail/Poster/000082/82120/82120_1000.jpg"
                         },
                         {
                             "type": "info",
